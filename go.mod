@@ -1,4 +1,4 @@
-module github.com/MrMelon54/pronouns
+module github.com/mrmelon54/pronouns
 
 go 1.20
 
